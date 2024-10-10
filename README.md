@@ -1,5 +1,5 @@
 # Otaku-Innovators
-BuildwithDelhi Hackathon..
+BuildwithDelhi Hackathon...
 =======
 # React + Vite
 
